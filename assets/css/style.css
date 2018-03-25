@@ -1,0 +1,12 @@
+body,html {
+    background-image: url("../imgs/intersection.png");
+}
+
+/* Portfolio banner styling */
+
+h1 {
+    width: 300px;
+    font-size: 28px;
+    text-align: center;
+    text-decoration: none;
+}
